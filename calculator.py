@@ -16,5 +16,5 @@ if __name__ == "__main__":
     print("Calculadora en Python")
     print("Suma: 5 + 3 =", add(5, 3))
     print("Resta: 5 - 3 =", subtract(5, 3))
-    print("Multiplicació: 5 * 3 =", multiply(5, 3))
+    print("Multiplicacio: 5 * 3 =", multiply(5, 3))
     print("Divisio: 5 / 3 =", divide(5, 3))
